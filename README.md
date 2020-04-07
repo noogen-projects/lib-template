@@ -2,7 +2,7 @@
 
 Description
 
-# Development notes
+## Development notes
 
 To check the project, use the following command:
 
