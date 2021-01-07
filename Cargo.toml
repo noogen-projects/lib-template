@@ -9,5 +9,8 @@ repository = "https://github.com/noogen-projects/{{project-name}}"
 description = "A Rust library that implements a ..."
 keywords = ["noogen"]
 categories = []
+exclude = [
+    ".git-pre-push.sh",
+]
 
 [dependencies]
